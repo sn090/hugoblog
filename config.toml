@@ -1,7 +1,6 @@
-title = "Notre-Dame de Paris"
+title = "MySite"
 baseURL = "https://myolu.netlify.com/"
 languageCode = "ja"
-title = "MySite"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
