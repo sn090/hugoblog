@@ -1,10 +1,11 @@
-baseURL = "http://example.org/"
+title = "Notre-Dame de Paris"
+baseURL = "https://myolu.netlify.com/"
 languageCode = "ja"
 title = "MySite"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
